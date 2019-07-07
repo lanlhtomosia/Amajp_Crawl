@@ -1,5 +1,7 @@
 # Amajp_Crawl
 
+![amajp_crawl logo](https://badge.fury.io/rb/amajp_crawl.svg)
+
 Amajp_Crawl is a terminal script for crawl AsinID any Production in AmazonJP.
 
 https://github.com/lanlhtomosia97/Amajp_Crawl
